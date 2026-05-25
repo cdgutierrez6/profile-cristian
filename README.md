@@ -88,8 +88,6 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cdgutierrez6&theme=dark&hide_border=true)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cdgutierrez6&theme=darkhub&no-frame=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 ---
@@ -238,8 +236,6 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdgutierrez6&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cdgutierrez6&theme=dark&hide_border=true)
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cdgutierrez6&theme=darkhub&no-frame=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
