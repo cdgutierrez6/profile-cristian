@@ -96,6 +96,7 @@ Solutions Architect with 15+ years building critical systems in production. I ha
 
 | Period | Company | Role |
 |---|---|---|
+| 2025 – Present | **[EfiziAI](https://github.com/cdgutierrez6/efiziai-platform)** | **Founder & COO** — B2B AI Automation Agency |
 | 2022 – 2025 | SATRACK | Senior Software Architect |
 | 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
 | 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
@@ -245,6 +246,7 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 
 | Período | Empresa | Rol |
 |---|---|---|
+| 2025 – Presente | **[EfiziAI](https://github.com/cdgutierrez6/efiziai-platform)** | **Fundador & COO** — Agencia B2B de Automatización con IA |
 | 2022 – 2025 | SATRACK | Senior Software Architect |
 | 2019 – 2022 | DOCTUS / INGENEO | Senior Full-Stack Developer |
 | 2015 – 2019 | COXTI / SOFTWARE ESTRATÉGICO | Full-Stack Developer |
