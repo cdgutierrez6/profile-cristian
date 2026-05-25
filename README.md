@@ -102,12 +102,52 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 
 ## Proyectos Destacados
 
-| Repositorio | Descripción | Stack |
-|---|---|---|
-| [portafolio-frontend](https://github.com/cdgutierrez6/portafolio-frontend) | Portfolio personal multilingüe | Next.js · TypeScript · Tailwind |
-| [microservices-demo](https://github.com/cdgutierrez6/microservices-demo) | Arquitectura de microservicios con Kafka | Java · Spring Boot · Kafka · Docker |
-| [rag-ai-assistant](https://github.com/cdgutierrez6/rag-ai-assistant) | Asistente IA con RAG y Claude API | Python · LangChain · Claude · pgvector |
-| [dotnet-clean-arch](https://github.com/cdgutierrez6/dotnet-clean-arch) | Template Clean Architecture enterprise | C# · .NET 8 · EF Core · CQRS |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cdgutierrez6/microservices-demo">⚙️ microservices-demo</a></h3>
+      <p>Arquitectura distribuida orientada a eventos con 4 microservicios independientes. Implementa <strong>Outbox Pattern</strong> para garantía at-least-once, circuit breaker, rate limiting por IP y consumers Kafka concurrentes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cdgutierrez6/rag-ai-assistant">🤖 rag-ai-assistant</a></h3>
+      <p>Sistema RAG (Retrieval Augmented Generation) listo para producción. Ingesta PDF/DOCX/TXT, genera embeddings con sentence-transformers, búsqueda semántica con <strong>pgvector</strong> y responde via <strong>Claude API</strong> con historial de sesión.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/cdgutierrez6/dotnet-clean-arch">🏗️ dotnet-clean-arch</a></h3>
+      <p>Template enterprise de Clean Architecture en .NET 8. Implementa <strong>CQRS</strong> con MediatR, Domain Events, Value Objects inmutables, pipeline behaviors para validación/logging y Result pattern para manejo de errores sin excepciones.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23_12-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.NET_8-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/xUnit-5D4F85?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://portafolio-frontend-wheat.vercel.app">🌐 portafolio-frontend</a></h3>
+      <p>Portfolio personal multilingüe (ES · EN · PT) con intro animada, partículas interactivas, timeline de experiencia y formulario de contacto funcional. Desplegado en Vercel con CI/CD automático.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
