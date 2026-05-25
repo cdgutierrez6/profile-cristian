@@ -76,11 +76,13 @@ Arquitecto de soluciones con más de 15 años construyendo sistemas críticos en
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cdgutierrez6&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cdgutierrez6&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cdgutierrez6&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdgutierrez6&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=cdgutierrez6&theme=dark&hide_border=true)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cdgutierrez6&theme=darkhub&no-frame=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
